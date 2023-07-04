@@ -1,5 +1,5 @@
 #include<iostream>
-
+using namespace std;
 
 void sort(int *arr,int size)
 {   
@@ -14,4 +14,5 @@ int main()
     sort(arr,size);
     
     std::cout<<"Windows Modify"<<std::endl;
+    cout<<"CentOS modify"<<endl;
 }
