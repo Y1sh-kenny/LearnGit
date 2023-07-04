@@ -2,7 +2,8 @@
 
 
 void sort(int *arr,int size)
-{
+{   
+    std::cout<<"迫真排序,别问,问就是排了"<<std::endl;
 
 }
 int main()
